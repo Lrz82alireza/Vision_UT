@@ -2,6 +2,6 @@
 * text=auto
 
 # Dump Folders
-
+/CA1/Media_out
 /CA1/.venv
 /.vscode
