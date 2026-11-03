@@ -1,0 +1,6 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+
+# Dump Folders
+CA1\.venv
+CA1\Media_src
